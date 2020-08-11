@@ -18,4 +18,4 @@ Running Instructions:
 
 3. Feature matrices for d) are in seperate text files. 
 
-4. Use MealData in Projoect 2 folder.
+4. Use MealData in Project 2 folder.
