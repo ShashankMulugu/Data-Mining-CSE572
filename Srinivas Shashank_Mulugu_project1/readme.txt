@@ -17,3 +17,5 @@ Running Instructions:
 2. My version of Python is 3.7. 
 
 3. Feature matrices for d) are in seperate text files. 
+
+4. Use MealData in Projoect 2 folder.
